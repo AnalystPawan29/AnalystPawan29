@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on real world problems.
-- 📫 How to reach me please follow me on linkedin Pawan Chaudhary
-likedin link:- www.linkedin.com/in/pawan-chaudhary-590789191
+- 📫 How to reach me please follow me on likedin:- www.linkedin.com/in/pawan-chaudhary-590789191
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I am playing with data and dashboards.
 
